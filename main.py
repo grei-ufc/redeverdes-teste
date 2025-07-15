@@ -1,3 +1,4 @@
 import numpy as np
 
-np.random.rand(5, 5)
+a = np.random.rand(5, 5)
+print(a)
